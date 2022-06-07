@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  ubuntu: 
+    image: "sofi:latest"
+    build: . 
+    environment:
+     - SOFIA_LARA="holanda"
+    
+
