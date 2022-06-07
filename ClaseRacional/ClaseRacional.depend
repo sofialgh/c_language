@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1498340660 source:c:\users\ger\desktop\progra 2\claseracional\main.cpp
+	"Racional.h"
+
+1498339122 c:\users\ger\desktop\progra 2\claseracional\racional.h
+	<iostream>
+
+1498339959 source:c:\users\ger\desktop\progra 2\claseracional\racional.cpp
+	"Racional.h"
+
+1512916153 source:c:\users\ger\desktop\progra 2\c++\claseracional\main.cpp
+	"Racional.h"
+
+1512831161 c:\users\ger\desktop\progra 2\c++\claseracional\racional.h
+	<iostream>
+
+1512915957 source:c:\users\ger\desktop\progra 2\c++\claseracional\racional.cpp
+	"Racional.h"
+

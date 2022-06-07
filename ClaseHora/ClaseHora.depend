@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1499090504 source:c:\users\ger\desktop\progra 2\clasehora\hora.cpp
+	"Hora.h"
+
+1499089053 c:\users\ger\desktop\progra 2\clasehora\hora.h
+	<iostream>
+
+1499090050 source:c:\users\ger\desktop\progra 2\clasehora\main.cpp
+	"Hora.h"
+
+1512915317 source:c:\users\ger\desktop\progra 2\c++\clasehora\main.cpp
+	"Hora.h"
+
+1512915385 c:\users\ger\desktop\progra 2\c++\clasehora\hora.h
+	<iostream>
+
+1512914753 source:c:\users\ger\desktop\progra 2\c++\clasehora\hora.cpp
+	"Hora.h"
+

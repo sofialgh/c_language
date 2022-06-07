@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1497731717 source:c:\users\ger\desktop\progra 2\clasepersona\main.cpp
+	<iostream>
+	"Persona.h"
+
+1497731476 c:\users\ger\desktop\progra 2\clasepersona\persona.h
+	<iostream>
+	<string.h>
+
+1497731509 source:c:\users\ger\desktop\progra 2\clasepersona\persona.cpp
+	"Persona.h"
+
+1497731717 source:c:\users\ger\desktop\progra 2\c++\clasepersona\main.cpp
+	<iostream>
+	"Persona.h"
+
+1497731476 c:\users\ger\desktop\progra 2\c++\clasepersona\persona.h
+	<iostream>
+	<string.h>
+
+1497731509 source:c:\users\ger\desktop\progra 2\c++\clasepersona\persona.cpp
+	"Persona.h"
+

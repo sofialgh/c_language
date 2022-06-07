@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1498054948 source:c:\users\ger\desktop\progra 2\complejo\main.cpp
+	<iostream>
+	"Complejo.h"
+
+1498054830 c:\users\ger\desktop\progra 2\complejo\complejo.h
+	<iostream>
+
+1498055024 source:c:\users\ger\desktop\progra 2\complejo\complejo.cpp
+	"Complejo.h"
+
+1498054948 source:c:\users\ger\desktop\progra 2\c++\complejo\main.cpp
+	<iostream>
+	"Complejo.h"
+
+1499026658 c:\users\ger\desktop\progra 2\c++\complejo\complejo.h
+	<iostream>
+

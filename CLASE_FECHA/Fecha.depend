@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1478745999 source:c:\users\federico\desktop\fecha\fecha.cpp
+	"Fecha.h"
+
+1478745999 c:\users\federico\desktop\fecha\fecha.h
+	<stdlib.h>
+	<iostream>
+
+1478746755 source:c:\users\federico\desktop\fecha\main.cpp
+	"Fecha.h"
+
+1478685237 source:c:\users\federico\desktop\programacion\clasesobj\fecha\fecha.cpp
+	"Fecha.h"
+
+1478685237 c:\users\federico\desktop\programacion\clasesobj\fecha\fecha.h
+	<iostream>
+
+1478642084 source:c:\users\federico\desktop\programacion\clasesobj\fecha\main.cpp
+	"Fecha.h"
+
+1478745999 source:c:\users\laboratorios\desktop\clase_fecha\fecha.cpp
+	"Fecha.h"
+
+1478745999 c:\users\laboratorios\desktop\clase_fecha\fecha.h
+	<stdlib.h>
+	<iostream>
+
+1478746755 source:c:\users\laboratorios\desktop\clase_fecha\main.cpp
+	"Fecha.h"
+

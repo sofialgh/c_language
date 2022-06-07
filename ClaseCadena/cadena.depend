@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1512677823 source:c:\users\ger\desktop\progra 2\cadena\cadena.cpp
+	"cadena.h"
+
+1512677676 source:c:\users\ger\desktop\progra 2\cadena\main.cpp
+	"cadena.h"
+
+1512677794 c:\users\ger\desktop\progra 2\cadena\cadena.h
+	<iostream>
+	<string.h>
+
